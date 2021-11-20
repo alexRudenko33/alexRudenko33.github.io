@@ -2,22 +2,21 @@
 "list": [
     {
         "sectionName": "sectionName1",
-        "items": [
-            { "id": 1,
-                "title": "title1",
-                "cover": "cover"
-            }
-        ]
+        "id": 1,
+        "title": "title1",
+        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
+    },
+    {
+        "sectionName": "sectionName1",
+        "id": 3,
+        "title": "title3",
+        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
     },
     {
         "sectionName": "sectionName2",
-        "items": [
-            { "id": 2,
-                "title": "title2",
-                "cover": "cover2"
-            }
-        ]
+        "id": 2,
+        "title": "title2",
+        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
     }
 ]
 }
-
