@@ -1,21 +1,27 @@
 {
 "list": [
     {
-        "sectionName": "sectionName1",
+        "sectionName": "Food",
         "id": 1,
-        "title": "title111111",
+        "title": "Avocado",
         "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
     },
     {
-        "sectionName": "sectionName1",
-        "id": 3,
-        "title": "title3",
-        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
-    },
-    {
-        "sectionName": "sectionName2",
+        "sectionName": "Food",
         "id": 2,
-        "title": "title2",
+        "title": "Oil",
+        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
+    },
+    {
+        "sectionName": "Sport",
+        "id": 3,
+        "title": "Swifmming",
+        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
+    },
+    {
+        "sectionName": "Menstruation",
+        "id": 4,
+        "title": "ovulation",
         "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
     }
 ]
