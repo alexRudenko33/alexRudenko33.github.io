@@ -3,13 +3,19 @@
     {
         "sectionName": "Food",
         "id": 1,
-        "title": "Avocado",
+        "title": "Avocado NEW",
         "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
     },
     {
         "sectionName": "Food",
         "id": 2,
         "title": "Oil",
+        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 100,
+        "title": "Carbs",
         "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
     },
     {
