@@ -1,12 +1,67 @@
 {
 "content": [
     {
-        "kind": "Text",
-        "text": "Hello wor;d",
+        "kind": "text",
+        "text": "Hello word, it's my first text article",
+        "highlights": ["first", "my"]
     },
     {
-        "kind": "Text",
-        "text": "Hello wor;d",
+        "kind": "spacer"
+    },
+    {
+        "kind": "title",
+        "title": "This is my title"
+    },
+    {
+        "kind": "text",
+        "text": "Hello word, it's my already second text without high"
+    },
+    {
+        "kind": "spacer"
+    },
+    {
+        "kind": "spacer"
+    },
+    {
+        "kind": "title",
+        "title": "Title before perecehn"
+    },
+    {
+        "kind": "perechen",
+        "perechen": "perechen 1"
+    },
+{
+        "kind": "perechen",
+        "perechen": "perechen 2"
+    },
+{
+        "kind": "perechen",
+        "perechen": "perechen 3"
+    },
+  
+    {
+        "kind": "spacer"
+    },
+    {
+        "kind": "image",
+        "image": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
+    },
+    {
+        "kind": "title",
+        "title": "Second image"
+    },
+    {
+        "kind": "image",
+        "image": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg",
+        "imageHeight": 200,
+        "imageWidth": 200,
+        "imageDescription": "some image description",
+    },
+    {
+        "kind": "text",
+        "text": "Hello word, it's my last text article",
+        "highlights": ["last"]
     }
 ]
 }
+
