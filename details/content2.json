@@ -25,13 +25,13 @@
     },
     {
         "kind": "image",
-        "image": "https://hochu.ua/uploads/70/77/e4/7077e4ee-3dc3-4c47-8399-24a0d6b69d58.jpg"
+        "image": "https://hochu.ua/uploads/70/77/e4/7077e4ee-3dc3-4c47-8399-24a0d6b69d58.jpg",
         "imageWidth": 660,
         "imageHeight": 735
         
     },
     {
-        "kind": "",
+        "kind": "title",
         "title": "Algorithm of actions"
         
     },
@@ -94,13 +94,14 @@
         "kind": "text",
         "text": "Take advantage of these recommendations and your smile will always remain flawless!"
         
-    }
+    },
     {
         "kind": "image",
-        "image": "https://hochu.ua/uploads/2a/94/08/2a9408ea-ae81-49f7-93f1-61cce8c8363b.jpg"
+        "image": "https://hochu.ua/uploads/2a/94/08/2a9408ea-ae81-49f7-93f1-61cce8c8363b.jpg",
         "imageWidth": 600,
         "imageHeight": 400
     }
 ]
 }
+
 
