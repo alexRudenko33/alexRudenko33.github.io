@@ -11,6 +11,26 @@
         "id": 2,
         "title": "How to Brush Your Teeth",
         "cover": "https://image.freepik.com/free-vector/illustration-cartoon-cute-girl-brushing-teeth_40876-2401.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 3,
+        "title": "8 healthy morning habits that will change your life",
+        "cover": "https://image.freepik.com/free-vector/tired-woman-waking-up-when-alarm-clock-ringing_74855-15552.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 4,
+        "title": "Coffee helps to achieve success",
+        "cover": "https://image.freepik.com/free-vector/coffee-cup-with-spoon-donuts-modern-style_32991-461.jpg"
+    },
+    {
+        "sectionName": "menstruation",
+        "id": 5,
+        "title": "How to relieve period pain?",
+        "cover": "https://image.freepik.com/free-vector/flat-pms-woman-composition-with-menstruation-tools-woman-with-headache_1284-59838.jpg"
     }
 ]
 }
+
+
