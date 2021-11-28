@@ -29,8 +29,87 @@
         "id": 5,
         "title": "How to relieve period pain?",
         "cover": "https://image.freepik.com/free-vector/flat-pms-woman-composition-with-menstruation-tools-woman-with-headache_1284-59838.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 6,
+        "title": "Raising serotonin levels",
+        "cover": "https://image.freepik.com/vector-gratis/patron-frutas-coloridas_52683-41876.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 7,
+        "title": "Healthy cereals that should be in your diet",
+        "cover": "https://image.freepik.com/vector-gratis/coleccion-tazones-cereales-color_1212-512.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 8,
+        "title": "Melon: who shouldn't eat the fragrant fruit",
+        "cover": "https://img1.hochu.ua/uploads/3d/32/d1/3d32d18e-5a1d-4d2e-87be-f63add926ca7_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 9,
+        "title": "Who shouldn't eat watermelon",
+        "cover": "https://img.freepik.com/vector-gratis/fondo-frutas-tropicales_24908-60496.jpg?size=626&ext=jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 10,
+        "title": "How to choose a watermelon",
+        "cover": "https://image.freepik.com/vector-gratis/fondo-frutas-tropicales_24908-60480.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 11,
+        "title": "10 tips for choosing strawberries",
+        "cover": "https://img1.hochu.ua/uploads/bc/b9/98/bcb9982f-d798-4024-b3c4-e79ec7fc80f2_640x490_fit.gif"
+    },
+    {
+        "sectionName": "Food",
+        "id": 12,
+        "title": "Green tea and tea ceremony",
+        "cover": "https://img1.hochu.ua/uploads/3f/fc/be/3ffcbe05-9a1b-495e-809a-ac259d8220db_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 13,
+        "title": "Green tea and tea ceremony",
+        "cover": "https://img1.hochu.ua/uploads/3f/fc/be/3ffcbe05-9a1b-495e-809a-ac259d8220db_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 14,
+        "title": "Quail eggs: beneficial properties",
+        "cover": "https://img1.hochu.ua/uploads/7d/ed/f3/7dedf392-4336-4809-8cf0-ad4586833527_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 15,
+        "title": "Ghee oil: what it is",
+        "cover": "https://hochu.ua/uploads/f9/d2/22/f9d2227a-388b-4147-8718-9f8b1143e970.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 16,
+        "title": "Benefits of avocado",
+        "cover": "https://img1.hochu.ua/uploads/d7/ac/16/d7ac1619-e24f-44ed-a1f6-acbef2c938fa_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "face",
+        "id": 17,
+        "title": "Turmeric: a magic spice for your skin",
+        "cover": "https://img1.hochu.ua/uploads/ed/dd/28/eddd2887-3d06-4f1e-9599-32cd1d259d85_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "face",
+        "id": 18,
+        "title": "How pumpkin affects facial skin",
+        "cover": "https://img1.hochu.ua/uploads/35/fc/8a/35fc8a67-7968-4756-a4be-d89931e1ef39_640x490_fit.jpg"
     }
 ]
 }
+
 
 
