@@ -25,7 +25,7 @@
         "cover": "https://image.freepik.com/free-vector/coffee-cup-with-spoon-donuts-modern-style_32991-461.jpg"
     },
     {
-        "sectionName": "menstruation",
+        "sectionName": "womanHealth",
         "id": 5,
         "title": "How to relieve period pain?",
         "cover": "https://image.freepik.com/free-vector/flat-pms-woman-composition-with-menstruation-tools-woman-with-headache_1284-59838.jpg"
@@ -75,19 +75,19 @@
     {
         "sectionName": "Food",
         "id": 13,
-        "title": "Green tea and tea ceremony",
-        "cover": "https://img1.hochu.ua/uploads/3f/fc/be/3ffcbe05-9a1b-495e-809a-ac259d8220db_640x490_fit.jpg"
-    },
-    {
-        "sectionName": "Food",
-        "id": 14,
         "title": "Quail eggs: beneficial properties",
         "cover": "https://img1.hochu.ua/uploads/7d/ed/f3/7dedf392-4336-4809-8cf0-ad4586833527_640x490_fit.jpg"
     },
     {
         "sectionName": "Food",
-        "id": 15,
+        "id": 14,
         "title": "Ghee oil: what it is",
+        "cover": "https://foodsguy.com/wp-content/uploads/2020/12/Ghee-Vs.-Olive-Oil-e1608238172783.jpg"
+    },
+    {
+        "sectionName": "Food",
+        "id": 15,
+        "title": "Lavender oil",
         "cover": "https://hochu.ua/uploads/f9/d2/22/f9d2227a-388b-4147-8718-9f8b1143e970.jpg"
     },
     {
@@ -97,19 +97,181 @@
         "cover": "https://img1.hochu.ua/uploads/d7/ac/16/d7ac1619-e24f-44ed-a1f6-acbef2c938fa_640x490_fit.jpg"
     },
     {
-        "sectionName": "face",
+        "sectionName": "selfCare",
         "id": 17,
         "title": "Turmeric: a magic spice for your skin",
         "cover": "https://img1.hochu.ua/uploads/ed/dd/28/eddd2887-3d06-4f1e-9599-32cd1d259d85_640x490_fit.jpg"
     },
     {
-        "sectionName": "face",
+        "sectionName": "selfCare",
         "id": 18,
         "title": "How pumpkin affects facial skin",
         "cover": "https://img1.hochu.ua/uploads/35/fc/8a/35fc8a67-7968-4756-a4be-d89931e1ef39_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 19,
+        "title": "Dark circles around the eyes: how to get rid of them",
+        "cover": "https://img1.hochu.ua/uploads/bb/d4/54/bbd454a5-4167-40b9-8c3e-d3244808dffe_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 20,
+        "title": "how to remove an immature pimple?",
+        "cover": "https://img1.hochu.ua/uploads/c8/e0/dd/c8e0dd5e-cddf-44ef-9c50-80301de9e020_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 21,
+        "title": "Coconut oil for the face: tips for use",
+        "cover": "https://img1.hochu.ua/uploads/03/e5/b7/03e5b74f-58d8-4fb3-afea-838f7e8b7cd3_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 22,
+        "title": "Why vitamin E is useful for skin and hair",
+        "cover": "https://img1.hochu.ua/uploads/a8/84/cf/a884cf61-c62e-48bd-b7ad-185adc7af6c0_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 23,
+        "title": "How to fall asleep fast",
+        "cover": "https://img1.hochu.ua/uploads/c2/2a/5d/c22a5de8-3b02-42d3-b8c6-4e72021805b0_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "selfCare",
+        "id": 24,
+        "title": "how to avoid dry skin in the fall",
+        "cover": "https://hochu.ua/images/jen-p-541467-unsplash.jpg"
+    },
+    {
+        "sectionName": "breastSelfExam",
+        "id": 25,
+        "title": "How to conduct a breast self-examination",
+        "cover": "https://d15xily2xy6xvq.cloudfront.net/main/image/resize?file=accounts%2F16070%2Ffiles%2F221.jpg&t=prcd63&method=crop&crop%5Bx%5D=0&crop%5By%5D=0&crop%5Bwidth%5D=850&crop%5Bheight%5D=443&max_width=850"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 26,
+        "title": "How to protect women's health",
+        "cover": "https://img1.hochu.ua/uploads/8f/56/80/8f5680c8-d613-4746-8334-de6f26f31827_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 27,
+        "title": "A word about PMS: is it okay to gain weight before your period?",
+        "cover": "https://img1.hochu.ua/uploads/c7/07/1c/c7071c49-0e22-4a40-97a4-ab75b07f5d86_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 28,
+        "title": "What is bulimia?",
+        "cover": "https://img1.hochu.ua/uploads/d8/91/6c/d8916ce3-03e0-473e-a944-4a632c3b7379_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 29,
+        "title": "6 PMS myths everyone believes in",
+        "cover": "https://image.freepik.com/free-vector/menstrual-calendar-concept_23-2148651018.jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 30,
+        "title": "8 habits that make PMS worse",
+        "cover": "https://image.freepik.com/free-vector/menstrual-calendar-concept-illustration_23-2148648234.jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 31,
+        "title": "What to do with an irregular menstrual cycle",
+        "cover": "https://img1.hochu.ua/uploads/16/5c/1f/165c1fee-59c1-41af-990b-b5fc1f805ec3_640x490_fit.png"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 32,
+        "title": "Dark chocolate can help you survive PMS",
+        "cover": "https://img1.hochu.ua/uploads/27/57/39/27573908-a28c-4319-a89d-86cccccfb5b1_640x490_fit.gif"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 33,
+        "title": "Men are to blame for the onset of menopause",
+        "cover": "https://image.freepik.com/free-photo/doctor-performing-ultrasound-scanning-her-pregnant-patient_7502-5429.jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 34,
+        "title": "Ovulation affects a woman's posture and movement",
+        "cover": "https://img.freepik.com/free-photo/young-attractive-woman-sitting-padmasana-pose-grey-studio-ba_1163-2938.jpg?size=338&ext=jpg"
+    },
+    {
+        "sectionName": "womanHealth",
+        "id": 35,
+        "title": "Safe days for sex?",
+        "cover": "https://image.freepik.com/free-photo/happy-couple-loving-together-holding-red-heart_1150-11934.jpg"
+    },
+    
+    
+    {
+        "sectionName": "fitness",
+        "id": 36,
+        "title": "Training on an empty stomach: is it possible or not?",
+        "cover": "https://img1.hochu.ua/uploads/7e/ce/0c/7ece0c14-84c6-444b-b529-0c579325fc40_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 37,
+        "title": "Morning yoga: 6 asanas to start your morning with",
+        "cover": "https://media.istockphoto.com/vectors/yoga-practice-asana-poses-in-cozy-apartment-vector-id1276386814?b=1&k=20&m=1276386814&s=170667a&w=0&h=_U7avIwaGR40Pl7DMnDEI53zJZJVqL4gCp_aBPBROQ4="
+    },
+    {
+        "sectionName": "fitness",
+        "id": 38,
+        "title": "Why stretching should be a must in any workout",
+        "cover": "https://img1.hochu.ua/uploads/45/63/c5/4563c521-23bf-4c28-967c-ef834717ce3f_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 39,
+        "title": "7 Secrets of How to Make a Meditation Site at Home",
+        "cover": "https://st4.cannypic.com/thumbs/14/149193_632_canny_pic.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 40,
+        "title": "What back exercises can you do in the workplace?",
+        "cover": "https://img1.hochu.ua/uploads/f8/03/29/f803298b-eb6e-46bf-ac83-c1ef188e205c_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 41,
+        "title": "How to keep office workers healthy?",
+        "cover": "https://hochu.ua/images/teamwork_53876-45321.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 42,
+        "title": "Reverse Plank: Exercise to Help Improve Your Posture",
+        "cover": "https://img1.hochu.ua/images/shutterstock_552938647.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 43,
+        "title": "What can you eat after exercise?",
+        "cover": "https://img1.hochu.ua/uploads/8a/c2/85/8ac28510-9671-45df-bebf-ce29378888b5_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 44,
+        "title": "Is aerobics a salvation from many troubles?",
+        "cover": "https://img1.hochu.ua/uploads/a2/7d/6c/a27d6c57-236e-4487-a5de-ea7844ef6328_640x490_fit.jpg"
+    },
+    {
+        "sectionName": "fitness",
+        "id": 45,
+        "title": "Hulahoop: fitness without leaving home",
+        "cover": "https://hochu.ua/uploads/04/66/8e/04668e11-131d-42e6-a3bb-e12101247f70.jpg"
     }
 ]
 }
-
-
 
