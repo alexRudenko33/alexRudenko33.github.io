@@ -1,12 +1,6 @@
 {
 "list": [
     {
-        "sectionName": "Food",
-        "id": 1,
-        "title": "Avocado NEW2",
-        "cover": "https://image.freepik.com/free-vector/group-pregnant-women-avatar-character_24911-52371.jpg"
-    },
-    {
         "sectionName": "selfCare",
         "id": 2,
         "title": "How to Brush Your Teeth",
@@ -22,7 +16,7 @@
         "sectionName": "Food",
         "id": 4,
         "title": "Coffee helps to achieve success",
-        "cover": "https://image.freepik.com/free-vector/coffee-cup-with-spoon-donuts-modern-style_32991-461.jpg"
+        "cover": "https://st2.depositphotos.com/3944627/7940/i/600/depositphotos_79404590-stock-photo-white-coffee-cup-and-coffee.jpg"
     },
     {
         "sectionName": "womanHealth",
