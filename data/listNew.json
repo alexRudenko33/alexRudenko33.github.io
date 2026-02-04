@@ -13,7 +13,7 @@
       "id": 3,
       "title": "8 healthy morning habits that will change your life",
       "cover": "https://image.freepik.com/free-vector/tired-woman-waking-up-when-alarm-clock-ringing_74855-15552.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/healthy-lifestyle/art-20046267",
+      "ref1": "https://www.planetfitness.com/blog/articles/8-morning-habits-can-improve-your-whole-day",
       "ref2": "https://www.nhs.uk/live-well/"
     },
     {
@@ -21,56 +21,56 @@
       "id": 4,
       "title": "Coffee helps to achieve success",
       "cover": "https://st2.depositphotos.com/3944627/7940/i/600/depositphotos_79404590-stock-photo-white-coffee-cup-and-coffee.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/coffee-and-health/art-20068119",
-      "ref2": "https://www.nhs.uk/live-well/eat-well/coffee-caffeine-and-your-health/"
+      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339",
+      "ref2": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you"
     },
     {
       "sectionName": "womanHealth",
       "id": 5,
       "title": "How to relieve period pain?",
       "cover": "https://image.freepik.com/free-vector/flat-pms-woman-composition-with-menstruation-tools-woman-with-headache_1284-59838.jpg",
-      "ref1": "https://www.mayoclinic.org/diseases-conditions/menstrual-cramps/diagnosis-treatment/drc-20374944",
-      "ref2": "https://www.nhs.uk/conditions/period-pain/"
+      "ref1": "https://www.healthpartners.com/blog/13-ways-to-stop-period-pain/",
+      "ref2": "https://www.nhs.uk/symptoms/period-pain/"
     },
     {
       "sectionName": "Food",
       "id": 6,
       "title": "Raising serotonin levels",
       "cover": "https://image.freepik.com/vector-gratis/patron-frutas-coloridas_52683-41876.jpg",
-      "ref1": "https://www.ncbi.nlm.nih.gov/books/NBK554406/",
-      "ref2": "https://www.mayoclinic.org/diseases-conditions/depression/in-depth/serotonin/art-20045392"
+      "ref1": "https://my.clevelandclinic.org/health/articles/22572-serotonin",
+      "ref2": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2077351/"
     },
     {
       "sectionName": "Food",
       "id": 7,
       "title": "Healthy cereals that should be in your diet",
       "cover": "https://image.freepik.com/vector-gratis/coleccion-tazones-cereales-color_1212-512.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/whole-grains/art-20047826",
-      "ref2": "https://www.nhs.uk/live-well/eat-well/why-wholegrains-are-important/"
+      "ref1": "https://www.today.com/health/diet-fitness/healthiest-cereals-rcna137277",
+      "ref2": "https://www.health.harvard.edu/blog/is-your-breakfast-cereal-healthy-202509083104"
     },
     {
       "sectionName": "Food",
       "id": 8,
       "title": "Melon: who shouldn't eat the fragrant fruit",
       "cover": "https://img1.hochu.ua/uploads/3d/32/d1/3d32d18e-5a1d-4d2e-87be-f63add926ca7_640x490_fit.jpg",
-      "ref1": "https://www.medicalnewstoday.com/articles/274247",
-      "ref2": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/food-safety/art-20068907"
+      "ref1": "https://growingfruit.org/t/most-fragrant-fruits-you-have-grown-or-know/34694",
+      "ref2": "https://www.collinsdictionary.com/dictionary/english/fragrant-fruit"
     },
     {
       "sectionName": "Food",
       "id": 9,
       "title": "Who shouldn't eat watermelon",
       "cover": "https://img.freepik.com/vector-gratis/fondo-frutas-tropicales_24908-60496.jpg",
-      "ref1": "https://www.medicalnewstoday.com/articles/266886",
-      "ref2": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-diet/art-20044295"
+      "ref1": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/the-wonders-of-watermelon",
+      "ref2": "https://www.healthline.com/nutrition/watermelon-health-benefits"
     },
     {
       "sectionName": "Food",
       "id": 10,
       "title": "How to choose a watermelon",
       "cover": "https://image.freepik.com/vector-gratis/fondo-frutas-tropicales_24908-60480.jpg",
-      "ref1": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely",
-      "ref2": "https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/"
+      "ref1": "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/the-wonders-of-watermelon",
+      "ref2": "https://www.healthline.com/nutrition/watermelon-health-benefits"
     },
 
     {
@@ -78,80 +78,72 @@
       "id": 36,
       "title": "Training on an empty stomach: is it possible or not?",
       "cover": "https://img1.hochu.ua/uploads/7e/ce/0c/7ece0c14-84c6-444b-b529-0c579325fc40_640x490_fit.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389",
-      "ref2": "https://www.healthline.com/nutrition/fasted-cardio"
+      "ref1": "https://www.healthline.com/health/fitness-exercise/working-out-on-an-empty-stomach",
+      "ref2": "https://www.theguardian.com/lifeandstyle/2025/nov/17/is-it-true-that-you-burn-more-fat-by-working-out-on-an-empty-stomach"
     },
     {
       "sectionName": "fitness",
       "id": 37,
       "title": "Morning yoga: 6 asanas to start your morning with",
       "cover": "https://media.istockphoto.com/vectors/yoga-practice-asana-poses-in-cozy-apartment-vector-id1276386814",
-      "ref1": "https://www.nhs.uk/live-well/exercise/yoga/",
-      "ref2": "https://www.healthline.com/health/fitness-exercise/yoga-for-beginners"
+      "ref1": "https://www.yogajournal.com/practice/morning-yoga-routine/",
+      "ref2": "https://www.healthline.com/health/fitness-exercise/morning-yoga-routine"
     },
     {
       "sectionName": "fitness",
       "id": 38,
       "title": "Why stretching should be a must in any workout",
       "cover": "https://img1.hochu.ua/uploads/45/63/c5/4563c521-23bf-4c28-967c-ef834717ce3f_640x490_fit.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931",
-      "ref2": "https://www.nhs.uk/live-well/exercise/stretching-exercises/"
+      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20546848",
+      "ref2": "https://www.health.harvard.edu/staying-healthy/the-ideal-stretching-routine"
     },
     {
       "sectionName": "fitness",
       "id": 39,
       "title": "7 Secrets of How to Make a Meditation Site at Home",
       "cover": "https://st4.cannypic.com/thumbs/14/149193_632_canny_pic.jpg",
-      "ref1": "https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858",
-      "ref2": "https://www.nhs.uk/mental-health/self-help/tips-and-support/meditation/"
+      "ref1": "https://mymeditatemate.com/blogs/home/creating-meditation-space-at-home-essentials-inspiration",
+      "ref2": "https://theartofmeditation.org/meditation-at-home"
     },
     {
       "sectionName": "fitness",
       "id": 40,
       "title": "What back exercises can you do in the workplace?",
       "cover": "https://img1.hochu.ua/uploads/f8/03/29/f803298b-eb6e-46bf-ac83-c1ef188e205c_640x490_fit.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/back-pain/art-20045017",
-      "ref2": "https://www.nhs.uk/conditions/back-pain/"
+      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/back-pain/art-20546859",
+      "ref2": "https://www.arthritis-uk.org/information-and-support/living-with-arthritis/health-and-wellbeing/exercising-with-arthritis/exercises-for-healthy-joints/exercises-for-the-back/"
     },
     {
       "sectionName": "fitness",
       "id": 41,
       "title": "How to keep office workers healthy?",
       "cover": "https://hochu.ua/images/teamwork_53876-45321.jpg",
-      "ref1": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
-      "ref2": "https://www.nhs.uk/live-well/exercise/"
+      "ref1": "https://workandmove.bakkerelkhuizen.com/10-essential-tips-for-healthy-office-work/",
+      "ref2": "https://www.officeworkerhealth.com/"
     },
     {
       "sectionName": "fitness",
       "id": 42,
       "title": "Reverse Plank: Exercise to Help Improve Your Posture",
       "cover": "https://img1.hochu.ua/images/shutterstock_552938647.jpg",
-      "ref1": "https://www.healthline.com/health/fitness/reverse-plank",
-      "ref2": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/posture/art-20046831"
+      "ref1": "https://www.hingehealth.com/resources/articles/reverse-plank/",
+      "ref2": "https://www.verywellfit.com/reverse-plank-exercise-3120740"
     },
     {
       "sectionName": "fitness",
       "id": 43,
       "title": "What can you eat after exercise?",
       "cover": "https://img1.hochu.ua/uploads/8a/c2/85/8ac28510-9671-45df-bebf-ce29378888b5_640x490_fit.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389",
-      "ref2": "https://www.nhs.uk/live-well/exercise/eating-and-drinking-for-sport/"
-    },
-    {
-      "sectionName": "fitness",
-      "id": 44,
-      "title": "Is aerobics a salvation from many troubles?",
-      "cover": "https://img1.hochu.ua/uploads/a2/7d/6c/a27d6c57-236e-4487-a5de-ea7844ef6328_640x490_fit.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/aerobic-exercise/art-20045541",
-      "ref2": "https://www.nhs.uk/live-well/exercise/"
+      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20045506",
+      "ref2": "https://www.bupa.co.uk/newsroom/ourviews/food-for-exercise"
     },
     {
       "sectionName": "fitness",
       "id": 45,
       "title": "Hulahoop: fitness without leaving home",
       "cover": "https://hochu.ua/uploads/04/66/8e/04668e11-131d-42e6-a3bb-e12101247f70.jpg",
-      "ref1": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/fitness/art-20046433",
-      "ref2": "https://www.nhs.uk/live-well/exercise/"
+      "ref1": "https://hms-fitness.com/support/blog/what-are-the-benefits-of-training-with-a-hula-hoop",
+      "ref2": "https://www.svetness.com/blogs/introducing-weighted-hula-hoops-and-how-to-use-them"
     }
   ]
 }
